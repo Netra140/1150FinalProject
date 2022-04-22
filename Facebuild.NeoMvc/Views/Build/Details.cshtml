@@ -1,0 +1,60 @@
+﻿@model Facebuild.Models.BuildDetail
+@using Microsoft.AspNet.Identity
+@using Facebuild.Services
+
+@{
+    ViewBag.Title = "Details";
+}
+<body style="background-image: url(../../Assets/dirt_block.jpeg); background-repeat:repeat;">
+
+    <div>
+        <div style="padding: 25px; background-image: url(../../Assets/snow_block.png); padiving:15px; align-content:center; margin:20px; border-radius: 15px; border: 5px solid black;">
+
+
+            <h1>
+                @Html.DisplayFor(model => model.Name)
+            </h1>
+
+            <div>
+                @Html.DisplayFor(model => model.BuildId)
+            </div>
+
+
+
+
+            <div>
+                <img src="@Html.ValueFor(model => model.Photo)" width="100%" alt="Image" style="margin-left:auto;margin-right:auto;" />
+
+            </div>
+
+
+            <div>
+                @Html.DisplayFor(model => model.Description)
+            </div>
+
+
+            <div>
+                @Html.DisplayFor(model => model.CreatedUtc)
+            </div>
+            <!--Html.DisplayFor(model => model.PalletId)-->
+        </div>
+
+        <div style="padding: 25px; background-image: url(../../Assets/obsidian.png); padiving:15px; align-content:center; margin:20px; border-radius: 15px; border: 5px solid black;">
+
+            <iframe style="border-color=black;border-radius=10px;border-style=solid;" src="@Html.ValueFor(model => model.iframeSrcComments)" width="49.5%" height="500"></iframe>
+            <!--<a href="Html.ValueFor(model => model.iframeSrc)">Link to pallet</a>-->
+            <iframe src="@Html.ValueFor(model => model.iframeSrc)" width="49.5%" height="500"></iframe>
+        </div>
+            @{
+                CommentService comServ = new CommentService(Guid.Parse(User.Identity.GetUserId()), int.Parse(Html.ValueFor(model => model.BuildId).ToString()));
+                var Comments = comServ.GetComments(int.Parse(Html.ValueFor(model => model.BuildId).ToString()));
+                foreach (var item in Comments)
+                {
+                    //Html.DisplayFor(comments => comments.Description);
+                }
+            }
+
+
+        </div>
+
+</body>
