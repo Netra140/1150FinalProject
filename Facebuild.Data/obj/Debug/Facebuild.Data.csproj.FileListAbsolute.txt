@@ -1,0 +1,54 @@
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\bin\Debug\Facebuild.Data.dll.config
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\bin\Debug\Facebuild.Data.dll
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\bin\Debug\Facebuild.Data.pdb
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\obj\Debug\Facebuild.Data.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\obj\Debug\Facebuild.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\obj\Debug\Facebuild.Data.csproj.CopyComplete
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\obj\Debug\Facebuild.Data.dll
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\obj\Debug\Facebuild.Data.pdb
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\obj\Debug\Facebuild.Data.Migrations.PalletIdBuildMatch.resources
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\obj\Debug\Facebuild.Data.csproj.GenerateResource.cache
+C:\Users\Ethan\source\repos\Facebuild.WebMVC\Facebuild.Data\obj\Debug\Facebuild.Data.Migrations.IframeSrcVar.resources
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\bin\Debug\Facebuild.Data.dll.config
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\bin\Debug\Facebuild.Data.dll
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\bin\Debug\Facebuild.Data.pdb
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\obj\Debug\Facebuild.Data.csprojAssemblyReference.cache
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\obj\Debug\Facebuild.Data.Migrations.PalletIdBuildMatch.resources
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\obj\Debug\Facebuild.Data.Migrations.IframeSrcVar.resources
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\obj\Debug\Facebuild.Data.csproj.GenerateResource.cache
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\obj\Debug\Facebuild.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\obj\Debug\Facebuild.Data.csproj.CopyComplete
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\obj\Debug\Facebuild.Data.dll
+C:\Users\Ethan\Desktop\Final-develop\Facebuild.Data\obj\Debug\Facebuild.Data.pdb
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Debug\Facebuild.Data.dll.config
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Debug\Facebuild.Data.dll
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Debug\Facebuild.Data.pdb
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\obj\Debug\Facebuild.Data.csprojAssemblyReference.cache
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\obj\Debug\Facebuild.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\obj\Debug\Facebuild.Data.csproj.CopyComplete
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\obj\Debug\Facebuild.Data.dll
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\obj\Debug\Facebuild.Data.pdb

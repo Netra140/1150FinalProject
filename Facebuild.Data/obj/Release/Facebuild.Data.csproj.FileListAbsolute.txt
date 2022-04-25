@@ -1,0 +1,16 @@
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Release\Facebuild.Data.dll.config
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Release\Facebuild.Data.dll
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Release\Facebuild.Data.pdb
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Release\EntityFramework.dll
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Release\EntityFramework.xml
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\obj\Release\Facebuild.Data.csprojAssemblyReference.cache
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\obj\Release\Facebuild.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\obj\Release\Facebuild.Data.csproj.CopyComplete
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\obj\Release\Facebuild.Data.dll
+C:\Users\Ethan\Desktop\New folder\1150FinalProject-main\Facebuild.Data\obj\Release\Facebuild.Data.pdb
